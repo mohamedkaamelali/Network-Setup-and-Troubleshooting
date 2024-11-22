@@ -6,4 +6,13 @@ troubleshoot a basic network to enhance our
 networking
 
 
+Content of project 
+
+Introduction to Network Setup
+Design Network Layout
+Configuring Network
+esting Network
+Common Troubleshooting
+maintain an excellent network
+
 
